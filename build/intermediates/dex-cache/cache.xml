@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Folder\krestikinoliki1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44bd096ed8ae7920d493a49beb7335452c00ecf9">
+        <dex dex="D:\Folder\krestikinoliki1\app\build\intermediates\pre-dexed\debug\instant-run_4dd036b3fd8b5cd823358415e6520b0dc94031c4.jar" />
+    </item>
+    <item
+        jar="D:\Folder\krestikinoliki1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b57b6d2bbdbe4281ced2206ad64f2d3fce1c27a9">
+        <dex dex="D:\Folder\krestikinoliki1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f436dfdbcc59d6142dd71c89b2c6837aa1549974.jar" />
+    </item>
+
+</items>
