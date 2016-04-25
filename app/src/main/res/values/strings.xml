@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Krestikinoliki</string>
-    <string name="main_txt">Все будет хорошо!</string>
+    <string name="name">Игрок</string>
+    <string name="win">выиграл!</string>
+    <string name="pat">Ничья!!</string>
 </resources>
