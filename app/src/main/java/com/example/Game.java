@@ -19,7 +19,7 @@ public class Game implements WinnerCheckerInterface {
 
 
     public Game() {
-        field = new Square[3][3];
+        field = new Square[5][5];
         squareCount = 0;
 
         for (int i = 0, l = field.length; i < l; i++) {

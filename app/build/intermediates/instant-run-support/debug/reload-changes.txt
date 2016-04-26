@@ -1,3 +1,2 @@
-CHANGED,D:\Folder\krestikinoliki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\R$string$override.class
 CHANGED,D:\Folder\krestikinoliki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\KrestikinolikiActivity$override.class
 CHANGED,D:\Folder\krestikinoliki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

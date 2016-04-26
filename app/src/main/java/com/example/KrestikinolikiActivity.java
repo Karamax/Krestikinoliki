@@ -15,7 +15,7 @@ import java.lang.reflect.Field;
 public class KrestikinolikiActivity extends Activity {
 
     private Game game;
-    private Button[][] buttons = new Button[3][3];
+    private Button[][] buttons = new Button[5][5];
     private TableLayout layout;
 
 
@@ -42,8 +42,8 @@ public class KrestikinolikiActivity extends Activity {
                 button.setOnClickListener(new Listener(i, j)); // установка слушателя, реагирующего на клик по кнопке
                 row.addView(button, new TableRow.LayoutParams(TableRow.LayoutParams.WRAP_CONTENT,
                         TableRow.LayoutParams.WRAP_CONTENT)); // добавление кнопки в строку таблицы
-                button.setWidth(107);
-                button.setHeight(107);
+                button.setWidth(64);
+                button.setHeight(64);
             }
             layout.addView(row, new TableLayout.LayoutParams(TableLayout.LayoutParams.WRAP_CONTENT,
                     TableLayout.LayoutParams.WRAP_CONTENT)); // добавление строки в таблицу
